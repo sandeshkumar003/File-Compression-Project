@@ -1,2 +1,2 @@
 # DSAProject
-Text File Compression system using Huffman Coding algorithm
+This repository contains code files of Text File Compression system using Huffman Coding algorithm. It also contains presentation to explain how that is working.
